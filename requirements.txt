@@ -1,0 +1,6 @@
+flatbuffers==23.5.26
+ipykernel==6.25.2
+matplotlib==3.7.2
+numpy==1.22.3
+scikit-learn==1.1.2
+tensorflow==2.13.0
